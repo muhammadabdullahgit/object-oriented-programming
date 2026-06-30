@@ -1,0 +1,252 @@
+{
+  "transactions": [
+    {
+      "payer": "client_John",
+      "receiver": "company",
+      "date": "01-01-2024",
+      "amount": 500000,
+      "tax": 5000,
+      "description": "Software Development"
+    },
+    {
+      "payer": "company",
+      "receiver": "expense",
+      "date": "01-08-2023",
+      "amount": 10000,
+      "tax": 0,
+      "description": "Bills"
+    },
+    {
+      "payer": "company",
+      "receiver": "expense",
+      "date": "01-08-2023",
+      "amount": 10000,
+      "tax": 0,
+      "description": "Bills"
+    },
+    {
+      "payer": "company",
+      "receiver": "expense",
+      "date": "01-09-2023",
+      "amount": 500000,
+      "tax": 0,
+      "description": "Utilities"
+    },
+    {
+      "payer": "company",
+      "receiver": "expense",
+      "date": "01-10-2023",
+      "amount": 5000,
+      "tax": 0,
+      "description": "Plants"
+    },
+    {
+      "payer": "employee_Ryan",
+      "receiver": "expense",
+      "date": "01-08-2023",
+      "amount": 10000,
+      "tax": 0,
+      "description": "Gadgets"
+    },
+    {
+      "payer": "employee_Kevin",
+      "receiver": "expense",
+      "date": "01-08-2023",
+      "amount": 5000,
+      "tax": 0,
+      "description": "Gadgets"
+    },
+    {
+      "payer": "employee_Kirk",
+      "receiver": "expense",
+      "date": "01-08-2023",
+      "amount": 20000,
+      "tax": 0,
+      "description": "Gadgets"
+    },
+    {
+      "payer": "employee_Julie",
+      "receiver": "expense",
+      "date": "01-08-2023",
+      "amount": 30000,
+      "tax": 0,
+      "description": "Gadgets"
+    },
+    {
+      "payer": "employee_Abdullah",
+      "receiver": "expense",
+      "date": "01-08-2023",
+      "amount": 40000,
+      "tax": 0,
+      "description": "Gadgets"
+    },
+    {
+      "payer": "employee_Muhammad",
+      "receiver": "expense",
+      "date": "01-08-2023",
+      "amount": 50000,
+      "tax": 0,
+      "description": "Gadgets"
+    },
+    {
+      "payer": "employee_Ryan",
+      "receiver": "expense",
+      "date": "01-08-2023",
+      "amount": 10000,
+      "tax": 0,
+      "description": "Gadgets"
+    },
+    {
+      "payer": "company",
+      "receiver": "employee_Ryan",
+      "date": "01-08-2023",
+      "amount": 1000000,
+      "tax": 0,
+      "description": "Payment"
+    },
+    {
+      "payer": "company",
+      "receiver": "employee_Kevin",
+      "date": "01-08-2023",
+      "amount": 1000000,
+      "tax": 0,
+      "description": "Payment"
+    },
+    {
+      "payer": "company",
+      "receiver": "employee_Kirk",
+      "date": "01-08-2023",
+      "amount": 1000000,
+      "tax": 0,
+      "description": "Payment"
+    },
+    {
+      "payer": "company",
+      "receiver": "employee_Julie",
+      "date": "01-08-2023",
+      "amount": 1000000,
+      "tax": 0,
+      "description": "Payment"
+    },
+    {
+      "payer": "company",
+      "receiver": "employee_Abdullah",
+      "date": "01-08-2023",
+      "amount": 1000000,
+      "tax": 0,
+      "description": "Payment"
+    },
+    {
+      "payer": "company",
+      "receiver": "employee_Muhammad",
+      "date": "01-08-2023",
+      "amount": 1000000,
+      "tax": 0,
+      "description": "Payment"
+    },
+    {
+      "payer": "company",
+      "receiver": "employee_Ryan",
+      "date": "01-08-2023",
+      "amount": 100000,
+      "tax": 0,
+      "description": "Payment"
+    },
+    {
+      "payer": "company",
+      "receiver": "employee_Kevin",
+      "date": "01-08-2023",
+      "amount": 200000,
+      "tax": 0,
+      "description": "Payment"
+    },
+    {
+      "payer": "company",
+      "receiver": "employee_Kirk",
+      "date": "01-08-2023",
+      "amount": 300000,
+      "tax": 0,
+      "description": "Payment"
+    },
+    {
+      "payer": "company",
+      "receiver": "employee_Julie",
+      "date": "01-08-2023",
+      "amount": 400000,
+      "tax": 0,
+      "description": "Payment"
+    },
+    {
+      "payer": "company",
+      "receiver": "employee_Abdullah",
+      "date": "01-08-2023",
+      "amount": 500000,
+      "tax": 0,
+      "description": "Payment"
+    },
+    {
+      "payer": "company",
+      "receiver": "employee_Muhammad",
+      "date": "01-08-2023",
+      "amount": 600000,
+      "tax": 0,
+      "description": "Payment"
+    },
+    {
+      "payer": "client_John",
+      "receiver": "company",
+      "date": "15-02-2024",
+      "amount": 300000,
+      "tax": 3000,
+      "description": "Software Development"
+    },
+    {
+      "payer": "client_John",
+      "receiver": "company",
+      "date": "15-03-2024",
+      "amount": 500000,
+      "tax": 0,
+      "description": "Software Development"
+    },
+    {
+      "payer": "client_Ace",
+      "receiver": "company",
+      "date": "01-01-2024",
+      "amount": 100000,
+      "tax": 0,
+      "description": "Software Development"
+    },
+    {
+      "payer": "client_Glen",
+      "receiver": "company",
+      "date": "01-04-2024",
+      "amount": 1000000,
+      "tax": 0,
+      "description": "Software Development"
+    },
+    {
+      "payer": "client_Jeff",
+      "receiver": "company",
+      "date": "01-11-2023",
+      "amount": 200000,
+      "tax": 0,
+      "description": "Software Development"
+    },
+    {
+      "payer": "client_Jeff",
+      "receiver": "company",
+      "date": "01-02-2024",
+      "amount": 500000,
+      "tax": 0,
+      "description": "Software Development"
+    },
+    {
+      "payer": "client_Ace",
+      "receiver": "company",
+      "date": "01-01-2024",
+      "amount": 200000,
+      "tax": 2000,
+      "description": "Software Development"
+    }
+  ]
+}

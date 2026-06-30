@@ -1,0 +1,102 @@
+{
+    "Route": [
+        {
+            "name": "Lahore-Rawalpindi",
+            "Schedule": [
+                {
+                    "Arrival Time": {
+                        "day": 3,
+                        "hour": 4,
+                        "minutes": 50,
+                        "month": 4,
+                        "year": 2023
+                    },
+                    "Departure Time": {
+                        "day": 3,
+                        "hour": 8,
+                        "minutes": 50,
+                        "month": 4,
+                        "year": 2023
+                    }
+                }
+            ],
+            "Stations": [
+                {
+                    "name": "Rawalpindi Express",
+                    "platforms": [
+                        {
+                            "name": "Bye",
+                            "number": 2
+                        },
+                        {
+                            "name": "GoodBye",
+                            "number": 3
+                        }
+                    ]
+                },
+                {
+                    "name": "Lahore Railway",
+                    "platforms": [
+                        {
+                            "name": "Hello-1234",
+                            "number": 4
+                        },
+                        {
+                            "name": "Hello",
+                            "number": 1
+                        }
+                    ]
+                }
+            ]
+        },
+    {
+        "name": "Lahore-Karachi",
+        "Schedule": [
+            {
+                "Arrival Time": {
+                    "day": 5,
+                    "hour": 3,
+                    "minutes": 20,
+                    "month": 3,
+                    "year": 2023
+                },
+                "Departure Time": {
+                    "day": 5,
+                    "hour": 4,
+                    "minutes": 50,
+                    "month": 4,
+                    "year": 2023
+                }
+            }
+        ],
+        "Stations": [
+            {
+                "name": "Karachi Express",
+                "platforms": [
+                    {
+                        "name": "Karachi Bypass",
+                        "number": 1
+                    },
+                    {
+                        "name": "IT side",
+                        "number": 2
+                    }
+                ]
+            },
+            {
+                "name": "Lahore Railway",
+                "platforms": [
+                    {
+                        "name": "Hello-1234",
+                        "number": 1
+                    },
+                    {
+                        "name": "Hello",
+                        "number": 2
+                    }
+                ]
+            }
+        ]
+    }
+]
+}

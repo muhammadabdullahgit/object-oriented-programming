@@ -1,0 +1,54 @@
+{
+    "Announcements": [
+        {
+            "DateTime": {
+                "day": 1,
+                "hour": 0,
+                "minutes": 1,
+                "month": 1,
+                "year": 2024
+            },
+            "message": "Hello This your admin"
+        },
+        {
+            "DateTime": {
+                "day": 26,
+                "hour": 10,
+                "minutes": 35,
+                "month": 4,
+                "year": 2024
+            },
+            "message": "BYE BYE"
+        },
+        {
+            "DateTime": {
+                "day": 27,
+                "hour": 5,
+                "minutes": 48,
+                "month": 4,
+                "year": 2024
+            },
+            "message": "Umar Ahmad and BSSE"
+        },
+        {
+            "DateTime": {
+                "day": 27,
+                "hour": 6,
+                "minutes": 49,
+                "month": 4,
+                "year": 2024
+            },
+            "message": "It's new day, yes it is"
+        },
+        {
+            "DateTime": {
+                "day": 28,
+                "hour": 20,
+                "minutes": 0,
+                "month": 8,
+                "year": 2024
+            },
+            "message": "Train of Route 5 will be late 10 minutes"
+        }
+    ]
+}

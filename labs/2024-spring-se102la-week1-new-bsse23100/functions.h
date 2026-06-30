@@ -1,0 +1,13 @@
+//
+// Created by Dell on 22/01/2024.
+//
+
+#ifndef INC_2024_SPRING_SE102LA_WEEK1_NEW_BSSE23100_FUNCTIONS_H
+#define INC_2024_SPRING_SE102LA_WEEK1_NEW_BSSE23100_FUNCTIONS_H
+#include <iostream>
+using namespace std;
+struct Car;
+void q1();
+
+
+#endif //INC_2024_SPRING_SE102LA_WEEK1_NEW_BSSE23100_FUNCTIONS_H

@@ -1,0 +1,18 @@
+{
+    "LowerACTicket": [
+        {
+            "DateTime": {
+                "day": 12,
+                "hour": 2,
+                "minutes": 30,
+                "month": 2,
+                "year": 24
+            },
+            "passengerName": "abdullah",
+            "paymentMethod": "card",
+            "ticketNumber": 24308,
+            "ticketPrice": 30.0,
+            "transactionID": "2080"
+        }
+    ]
+}

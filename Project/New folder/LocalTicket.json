@@ -1,0 +1,18 @@
+{
+    "LocalTicket": [
+        {
+            "DateTime": {
+                "day": 3,
+                "hour": 3,
+                "minutes": 4,
+                "month": 4,
+                "year": 6
+            },
+            "passengerName": "umar",
+            "paymentMethod": "cash",
+            "ticketNumber": 18316,
+            "ticketPrice": 27.0,
+            "transactionID": "5272"
+        }
+    ]
+}

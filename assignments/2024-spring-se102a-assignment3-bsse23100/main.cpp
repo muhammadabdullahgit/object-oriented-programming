@@ -1,0 +1,33 @@
+#include <iostream>
+# include "BankAccount.h"
+# include "Student.h"
+# include "LibraryBook.h"
+using namespace std;
+
+int main() {
+    int x;
+    cout<<"enter  1 to run question 1"<<endl;
+    cout<<"enter  2 to run question 2"<<endl;
+    cout<<"enter  3 to run question 3"<<endl;
+    cin>>x;
+    switch(x){
+        case 1:{
+             q1();
+            break;
+        }
+        case 2:{
+            q2();
+            break;
+        }
+        case 3:{
+            q3();
+            break;
+        }
+        default:{
+            cout<<"wrong key pressed in main menu"<<endl;
+            break;
+        }
+    }
+    //Make a Menu Driven Program and Call your functions here
+    return 0;
+}

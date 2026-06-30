@@ -1,0 +1,16 @@
+{
+  "Admin": [
+    {
+      "name":"Umar",
+      "password":"umar-1234"
+    },
+    {
+      "name":"Ali",
+      "password":"ali-1234"
+    },
+    {
+      "name":"Abdullah",
+      "password":"abdullah-1234"
+    }
+  ]
+}

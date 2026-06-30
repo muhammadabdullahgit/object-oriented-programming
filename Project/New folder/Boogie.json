@@ -1,0 +1,28 @@
+{
+    "Boogies": [
+        {
+            "BoogieNO": 1,
+            "BoogieType": "local"
+        },
+        {
+            "BoogieNO": 1,
+            "BoogieType": "Business"
+        },
+        {
+            "BoogieNO": 2,
+            "BoogieType": "Ac"
+        },
+        {
+            "BoogieNO": 3,
+            "BoogieType": "Economy"
+        },
+        {
+            "BoogieNO": 4,
+            "BoogieType": "Local"
+        },
+        {
+            "BoogieNO": 5,
+            "BoogieType": "Ac"
+        }
+    ]
+}

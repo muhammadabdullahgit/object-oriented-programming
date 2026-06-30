@@ -1,0 +1,109 @@
+{
+    "Routes": [
+        {
+            "Schedule": [
+                {
+                    "Arrival Time": {
+                        "day": 27,
+                        "hour": 1,
+                        "minutes": 19,
+                        "month": 4,
+                        "year": 2024
+                    },
+                    "Departure Time": {
+                        "day": 27,
+                        "hour": 2,
+                        "minutes": 19,
+                        "month": 4,
+                        "year": 2024
+                    }
+                }
+            ],
+            "Stations": [
+                {
+                    "name": "Lahore",
+                    "platforms": [
+                        {
+                            "name": "Darbaar",
+                            "number": 1
+                        }
+                    ]
+                }
+            ],
+            "name": "Pakistan"
+        },
+        {
+            "Schedule": [
+                {
+                    "Arrival Time": {
+                        "day": 5,
+                        "hour": 3,
+                        "minutes": 19,
+                        "month": 2,
+                        "year": 2022
+                    },
+                    "Departure Time": {
+                        "day": 25,
+                        "hour": 2,
+                        "minutes": 5,
+                        "month": 4,
+                        "year": 2023
+                    }
+                }
+            ],
+            "Stations": [
+                {
+                    "name": "NewYork",
+                    "platforms": [
+                        {
+                            "name": "Chicago",
+                            "number": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "London",
+                    "platforms": [
+                        {
+                            "name": "Paris",
+                            "number": 1
+                        }
+                    ]
+                }
+            ],
+            "name": "USA"
+        },
+        {
+            "Schedule": [
+                {
+                    "Arrival Time": {
+                        "day": 28,
+                        "hour": 0,
+                        "minutes": 52,
+                        "month": 4,
+                        "year": 2024
+                    },
+                    "Departure Time": {
+                        "day": 28,
+                        "hour": 1,
+                        "minutes": 52,
+                        "month": 4,
+                        "year": 2024
+                    }
+                }
+            ],
+            "Stations": [
+                {
+                    "name": "Makkah",
+                    "platforms": [
+                        {
+                            "name": "Kibla",
+                            "number": 1
+                        }
+                    ]
+                }
+            ],
+            "name": "Saudi-Arabia"
+        }
+    ]
+}

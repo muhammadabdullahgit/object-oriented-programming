@@ -1,0 +1,60 @@
+{
+  "invoices": [
+    {
+      "client" : "John",
+      "period_start": "01-12-2023",
+      "period_end": "31-12-2023",
+      "amount": 500000,
+      "description": "C++ Development"
+    },
+    {
+      "client" : "John",
+      "period_start": "01-01-2024",
+      "period_end": "31-01-2024",
+      "amount": 500000,
+      "description": "Python Development"
+    },
+    {
+      "client" : "John",
+      "period_start": "01-02-2024",
+      "period_end": "28-02-2024",
+      "amount": 500000,
+      "description": "Java Development"
+    },
+    {
+      "client" : "Ace",
+      "period_start": "01-07-2023",
+      "period_end": "31-07-2023",
+      "amount": 400000,
+      "description": "Website"
+    },
+    {
+      "client" : "Ace",
+      "period_start": "01-11-2023",
+      "period_end": "30-11-2023",
+      "amount": 200000,
+      "description": "Website"
+    },
+    {
+      "client" : "Jeff",
+      "period_start": "01-10-2023",
+      "period_end": "31-10-2023",
+      "amount": 500000,
+      "description": "Web Portal"
+    },
+    {
+      "client" : "Jeff",
+      "period_start": "01-01-2024",
+      "period_end": "31-01-2024",
+      "amount": 200000,
+      "description": "Mobile App"
+    },
+    {
+      "client" : "Glen",
+      "period_start": "01-03-2024",
+      "period_end": "31-03-2024",
+      "amount": 1000000,
+      "description": "Trade Portal"
+    }
+  ]
+}

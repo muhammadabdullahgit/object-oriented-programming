@@ -1,0 +1,32 @@
+{
+    "BusinessTicket": [
+        {
+            "DateTime": {
+                "day": 28,
+                "hour": 11,
+                "minutes": 47,
+                "month": 4,
+                "year": 24
+            },
+            "passengerName": "abdullah",
+            "paymentMethod": "cash",
+            "ticketNumber": 51165,
+            "ticketPrice": 12.0,
+            "transactionID": "5937"
+        },
+        {
+            "DateTime": {
+                "day": 28,
+                "hour": 12,
+                "minutes": 34,
+                "month": 3,
+                "year": 24
+            },
+            "passengerName": "ali",
+            "paymentMethod": "card",
+            "ticketNumber": 59961,
+            "ticketPrice": 12.0,
+            "transactionID": "7053"
+        }
+    ]
+}

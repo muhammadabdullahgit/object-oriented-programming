@@ -1,0 +1,51 @@
+{
+  "Route": {
+    "name":"Lahore-Rawalpindi",
+    "Schedule": [
+      {
+        "Arrival Time":{
+          "day":3,
+          "month":4,
+          "year":2023,
+          "hour":3,
+          "minutes":30
+        },
+        "Departure Time":{
+          "day":3,
+          "month":4,
+          "year":2023,
+          "hour":3,
+          "minutes":30
+        }
+      }
+    ],
+    "Stations": [
+      {
+        "name": "Rawalpindi Express",
+        "platforms": [
+          {
+            "name": "Bye",
+            "number": 2
+          },
+          {
+            "name": "GoodBye",
+            "number": 3
+          }
+        ]
+      },
+      {
+        "name": "Lahore Railway",
+        "platforms": [
+          {
+            "name": "Hello-1234",
+            "number": 4
+          },
+          {
+            "name": "Hello",
+            "number": 1
+          }
+        ]
+      }
+    ]
+  }
+}

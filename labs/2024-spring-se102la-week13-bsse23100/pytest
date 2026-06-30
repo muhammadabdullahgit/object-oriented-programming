@@ -1,0 +1,60 @@
+from ElectricityMeter import SinglePhaseMeter, ThreePhaseMeter, CommercialMeter, NonCommercialMeter, IndustrialMeter
+import pytest
+
+@pytest.fixture
+def single_phase_meter():
+    return SinglePhaseMeter(220)
+
+@pytest.fixture
+def three_phase_meter():
+    return ThreePhaseMeter(440)
+
+@pytest.fixture
+def commercial_meter():
+    return CommercialMeter()
+
+@pytest.fixture
+def non_commercial_meter():
+    return NonCommercialMeter()
+
+@pytest.fixture
+def industrial_meter():
+    return IndustrialMeter()
+
+def test_single_phase_meter_calculate_bill(single_phase_meter):
+    assert single_phase_meter.calculate_bill(50) == pytest.approx(50 * 5.0 * (1 + 220 * 0.1))
+    assert single_phase_meter.calculate_bill(100) == pytest.approx(100 * 5.0 * (1 + 220 * 0.1))
+    assert single_phase_meter.calculate_bill(0) == 0.0
+
+def test_single_phase_meter_additional_function(single_phase_meter, capsys):
+    single_phase_meter.additional_function()
+    captured = capsys.readouterr()
+    assert captured.out == "Additional function for SinglePhaseMeter called.\n"
+
+def test_commercial_meter_operator_overloading(commercial_meter):
+    meter1 = commercial_meter
+    meter2 = commercial_meter
+    assert (meter1 + meter2) == pytest.approx(meter1.calculate_bill(50) + meter2.calculate_bill(50))
+
+def test_non_commercial_meter_operator_overloading(non_commercial_meter):
+    meter1 = non_commercial_meter
+    meter2 = non_commercial_meter
+    assert (meter1 + meter2) == pytest.approx(meter1.calculate_bill(50) + meter2.calculate_bill(50))
+
+def test_industrial_meter_operator_overloading(industrial_meter):
+    meter1 = industrial_meter
+    meter2 = industrial_meter
+    assert (meter1 + meter2) == pytest.approx(meter1.calculate_bill(50) + meter2.calculate_bill(50))
+
+def test_three_phase_meter_operator_overloading(three_phase_meter):
+    meter1 = three_phase_meter
+    meter2 = three_phase_meter
+    assert (meter1 + meter2) == pytest.approx(meter1.calculate_bill(50) + meter2.calculate_bill(50))
+
+def test_single_phase_meter_operator_overloading(single_phase_meter):
+    meter1 = single_phase_meter
+    assert (meter1 * 2) == pytest.approx(meter1.calculate_bill(50) * 2)
+
+    meter2 = SinglePhaseMeter(220)
+    assert (meter1 == meter2) == (meter1.calculate_bill(50) == meter2.calculate_bill(50))
+

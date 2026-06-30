@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "2024_spring_se102la_week16_bsse23100",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "2024_spring_se102la_week16_bsse23100::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2024_spring_se102la_week16_bsse23100-Debug-ceb67064735d01cdffce.json",
+					"name" : "2024_spring_se102la_week16_bsse23100",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Dell/Documents/GitHub/semester 2/2024-spring-se102la-week16-bsse23100/cmake-build-debug",
+		"source" : "C:/Users/Dell/Documents/GitHub/semester 2/2024-spring-se102la-week16-bsse23100"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
