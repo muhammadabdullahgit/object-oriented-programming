@@ -1,0 +1,12 @@
+# ninja log v5
+1	778	7372424535716009	CMakeFiles/Template_Class.dir/main.cpp.obj	b2bc6f3dd1925ad9
+27	814	7372424536086145	CMakeFiles/Template_Class.dir/Feedback.cpp.obj	5249aae3f0360498
+815	1161	7372424539502104	Template_Class.exe	2c3cdc67d436a3c6
+5	2673	7372425334275357	CMakeFiles/Template_Class.dir/Feedback.cpp.obj	5249aae3f0360498
+8	777	7372425612367662	CMakeFiles/Template_Class.dir/Feedback.cpp.obj	5249aae3f0360498
+15	1304	7372432020347840	CMakeFiles/Template_Class.dir/main.cpp.obj	b2bc6f3dd1925ad9
+7	1331	7372432020630813	CMakeFiles/Template_Class.dir/Feedback.cpp.obj	5249aae3f0360498
+6	969	7372432772070518	CMakeFiles/Template_Class.dir/Feedback.cpp.obj	5249aae3f0360498
+970	1143	7372432773752920	Template_Class.exe	2c3cdc67d436a3c6
+8	699	7372433285519876	CMakeFiles/Template_Class.dir/Feedback.cpp.obj	5249aae3f0360498
+700	957	7372433287963382	Template_Class.exe	2c3cdc67d436a3c6
