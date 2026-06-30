@@ -1,0 +1,26 @@
+{
+  "name": "Object Oriented Programming",
+  "code": "SE102",
+  "components": {
+    "assignment": {
+      "total": 5,
+      "best": 2
+    },
+    "project": {
+      "total": 1,
+      "best": 1
+    },
+    "quiz": {
+      "total": 10,
+      "best": 5
+    },
+    "midterm": {
+      "total": 1,
+      "best": 1
+    },
+    "final": {
+      "total": 1,
+      "best": 1
+    }
+  }
+}

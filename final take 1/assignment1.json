@@ -1,0 +1,62 @@
+[
+  {
+    "rollNo": "BSSE2x001",
+    "marks": 7,
+    "total": 10,
+    "plagiarism": true
+  },
+  {
+    "rollNo": "BSSE2x002",
+    "marks": 8,
+    "total": 10,
+    "plagiarism": false
+  },
+  {
+    "rollNo": "BSSE2x003",
+    "marks": 3,
+    "total": 10,
+    "plagiarism": true
+  },
+  {
+    "rollNo": "BSSE2x004",
+    "marks": 4,
+    "total": 10,
+    "plagiarism": false
+  },
+  {
+    "rollNo": "BSSE2x005",
+    "marks": 7,
+    "total": 10,
+    "plagiarism": false
+  },
+  {
+    "rollNo": "BSSE2x006",
+    "marks": 9,
+    "total": 10,
+    "plagiarism": false
+  },
+  {
+    "rollNo": "BSSE2x007",
+    "marks": 4,
+    "total": 10,
+    "plagiarism": false
+  },
+  {
+    "rollNo": "BSSE2x008",
+    "marks": 10,
+    "total": 10,
+    "plagiarism": false
+  },
+  {
+    "rollNo": "BSSE2x009",
+    "marks": 1,
+    "total": 10,
+    "plagiarism": true
+  },
+  {
+    "rollNo": "BSSE2x010",
+    "marks": 2,
+    "total": 10,
+    "plagiarism": false
+  }
+]
